@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"_sr71jet_"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.36"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "Chest UI Testing",
+		"description": "",
+		"min_engine_version": [
+			1,
+			21,
+			0
+		],
+		"uuid": "f94f42b5-a338-4efb-8b2a-912842ddd85b",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "30f7211e-a942-44d9-9d2d-f09ef4334eef",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "529566ad-4807-4428-bfba-a50adfca1655",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
