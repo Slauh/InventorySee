@@ -8,7 +8,7 @@ Features
 
 Main Inventory: View and interact with the player’s main inventory items.
 
-Gear/Armor: Access equipped
+Gear/Armor: Access equipped gear, offhand, mainhand, etc.
 
 Ender Chest: (WIP) view player's ender chest
 
