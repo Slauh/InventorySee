@@ -1,9 +1,15 @@
 # InventorySee
 
+##This requires the beta-api experiment to be turned on.
+
 This project is currently a (WIP),
+
 Features
+
 Main Inventory: View and interact with the player’s main inventory items.
+
 Gear/Armor: Access equipped
+
 Ender Chest: (WIP) view player's ender chest
 
 ## Note | this is a rushed template and is not finished yet | i currently do not have time to maintain this.
