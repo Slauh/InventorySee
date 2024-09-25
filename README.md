@@ -1,6 +1,6 @@
 # InventorySee
 
-##This requires the beta-api experiment to be turned on.
+## This requires the beta-api experiment to be turned on.
 
 This project is currently a (WIP),
 
